@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "rootDir": "./src/**/*",
+    "target": "es2020",
+    "module": "commonjs"
+  },
+  "include": [
+    "./src/**/*"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}

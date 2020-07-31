@@ -1,0 +1,31 @@
+{
+  "name": "@mpc/asyncevent",
+  "version": "2020.7.30",
+  "description": "MPC AsyncEventTarget and AsyncEvent",
+  "browser": "dist/asyncevent.js",
+  "source": "src/asyncevent.ts",
+  "types": "src/asyncevent.ts",
+  "scripts": {
+    "build": "parcel build src/asyncevent.ts --out-dir dist"
+  },
+  "keywords": [
+    "mpc",
+    "asyncevent",
+    "asynceventtarget",
+    "javascript",
+    "typescript"
+  ],
+  "private": true,
+  "browserslist": [
+    "last 1 Chrome versions"
+  ],
+  "author": "MPDieckmann",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@mpc/mpc": "file:../mpc"
+  },
+  "devDependencies": {
+    "typescript": "^3.9.7"
+  },
+  "optionalDependencies": {}
+}
