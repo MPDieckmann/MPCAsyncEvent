@@ -1,6 +1,6 @@
 {
   "name": "@mpc/asyncevent",
-  "version": "2020.7.30",
+  "version": "2020.7.31",
   "description": "MPC AsyncEventTarget and AsyncEvent",
   "browser": "dist/asyncevent.js",
   "source": "src/asyncevent.ts",
