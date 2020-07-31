@@ -15,14 +15,11 @@
     "javascript",
     "typescript"
   ],
-  "private": true,
-  "browserslist": [
-    "last 1 Chrome versions"
-  ],
   "author": "MPDieckmann",
-  "license": "UNLICENSED",
+  "license": "GPL-3.0",
+  "repository": "github:MPDieckmann/MPCAsyncEvent",
   "dependencies": {
-    "@mpc/mpc": "file:../mpc"
+    "@mpc/mpc": "github:MPDieckmann/MPC"
   },
   "devDependencies": {
     "typescript": "^3.9.7"
