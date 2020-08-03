@@ -16,9 +16,9 @@
     "typescript"
   ],
   "author": "MPDieckmann",
-  "license": "GPL-3.0",
+  "license": "UNLICENSED",
   "repository": "github:MPDieckmann/MPCAsyncEvent",
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
+  "private": true,
   "dependencies": {
     "@mpc/mpc": "github:MPDieckmann/MPC"
   },
